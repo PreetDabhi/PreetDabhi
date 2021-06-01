@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @PreetDabhi
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning something new and Cool
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning ReactJS, JAVA and Data Structures
+- 📫 How to reach me preetdabhi14@gmail.com 
 
 <!---
 PreetDabhi/PreetDabhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

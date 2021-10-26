@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PreetDabhi
-- 👀 I’m interested in ...
+- 👀 I’m interested in Full-Stack Development, Web Development and Software Engineering.
 - 🌱 I’m currently learning ReactJS, JAVA and Data Structures
 - 📫 How to reach me preetdabhi14@gmail.com 
 
